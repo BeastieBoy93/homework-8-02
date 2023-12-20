@@ -2,10 +2,15 @@
 ---
 ### Задание 1
 `Git`
+
 ![Git](https://github.com/BeastieBoy93/homework-8-02/blob/main/1.png)
+
 `Build steps`
+
 ![Build Steps](https://github.com/BeastieBoy93/homework-8-02/blob/main/2.png)
+
 `Result`
+
 ![Result](https://github.com/BeastieBoy93/homework-8-02/blob/main/3.png)
 
 ---
@@ -33,6 +38,7 @@ pipeline {
 }
 ```
 `Result`
+
 ![Result](https://github.com/BeastieBoy93/homework-8-02/blob/main/4.png)
 
 ---
@@ -65,6 +71,9 @@ pipeline {
 }
 ```
 `Result 1`
+
 ![Result 1](https://github.com/BeastieBoy93/homework-8-02/blob/main/5.png)
+
 `Result 2`
+
 ![Result 2](https://github.com/BeastieBoy93/homework-8-02/blob/main/6.png)
